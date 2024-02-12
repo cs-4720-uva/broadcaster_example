@@ -1,4 +1,5 @@
 {
-  saluation = "Hello",
-  receiver = "World"
+  "saluation": "Hello",
+  "receiver": "World",
+  "number": 5
 }
